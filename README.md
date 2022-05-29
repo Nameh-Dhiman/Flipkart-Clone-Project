@@ -12,14 +12,14 @@ This project was built by a team of 6 developers in 5 Days.
 Flipkart is an Indian e-commerce company, headquartered in Bangalore, Karnataka, India. The company initially focuses on online book sales, product categories such as consumer electronics, fashion, home essentials, groceries, and lifestyle products.
 </p>
 
-###Credits
+### Credits
 ___
 * Images: [Flipkart.com](https://www.flipkart.com/)
 * Content & Data: [Flipkart.com](https://www.flipkart.com/)
 * Icons: [Bootstrap Icons](https://icons.getbootstrap.com/)
 * References: [MDN Docs](https://developer.mozilla.org/en-US/ ) | [W3Schools](https://www.w3schools.com/) | [Glider JS](https://nickpiscitelli.github.io/Glider.js/)
 
-###Tech Stack
+### Tech Stack
 ___
 
 * HTML 5
